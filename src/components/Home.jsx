@@ -23,7 +23,7 @@ const Home = () => {
         <h2 className="text-center sm:text-6xl w-full font-extrabold text-transparent mt-5 bg-gradient-to-r from-white to-white hover:from-blue-600 hover:to-pink-600 bg-clip-text text-transparent duration-300 ">
           I'm a  Web Developer
         </h2>
-        <p className=" text-center text-white mt-2 py-4 max-w-md hover:scale-125 duration-300">
+        <p className=" text-center text-white mt-2 py-4 max-w-md hover: scale-120 duration-300">
            I have 1 year of experience in graphics design and web development.
           Currently, I love to work on web application using technologies like            
           React, Tailwind, Ant Design .
